@@ -1,0 +1,23 @@
+{
+	"backendurl":"http://194.233.163.141",
+	"port": "3000",
+	"token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiY292aWRkYl91c2VyIn0.hh2wJCiE1bxDRYcvtTV58Z9bC16fnHkTx5w-iVhDHiw",
+	"ftpAddress": "194.233.163.141",
+	"ftpPort": 21,
+	"ftpLogin": "vsftp",
+	"ftpPassword":"123123123",
+	"microblinkToken": "sRwAAAATY29tLnBlaW5sYWIuY292c2NhbsWjQljT3rGyQyWoRgEVm2R1fSd+VbJwmGBvpOT//a1G0YACmHJVK8JhqZHskYOyEPvXVlAWWeAv1G8YM8ACHGO+MTYeRso00zjexPhArToyLaHKvG2/5G/2+9BFKwKkNfe1EAXgF/vijeyBAvrLKVlmrQBXqLE8YPUq0Rxc8oVPoV/URK5a/zEDveOhSjKZ4yLeQhgBvnSlMJJLY3SxEgWbLcfgCKcB8ot0dlztPcoR",
+
+	"textFieldsMap": {
+		  	"firstName"     :	[""],
+            "secondName"    :	[""],
+            "zip"           :	[""],
+            "street"        :	[""],
+            "houseNumber"   :	[""],
+            "city"          :	[""],
+            "gender"        :	[""],
+            "birthday"      :	["Textfeld 41", "Textfeld 56"],
+            "fullAddress"   :	["Textfeld 42", "Textfeld 57"],
+            "fullName"		:   ["Textfeld 40", "Textfeld 55"]
+	}
+}
