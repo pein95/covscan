@@ -1,5 +1,6 @@
 {
 	"backendurl":"http://194.233.163.141",
+	"pdfUrl":"https://github.com/pein95/covscan/raw/main/form.pdf",
 	"port": "3000",
 	"token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiY292aWRkYl91c2VyIn0.hh2wJCiE1bxDRYcvtTV58Z9bC16fnHkTx5w-iVhDHiw",
 	"ftpAddress": "194.233.163.141",
